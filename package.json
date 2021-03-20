@@ -1,0 +1,22 @@
+{
+  "name": "profile-card-component-main-v2",
+  "version": "1.0.0",
+  "description": "![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aapxx87/profile-card-component-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aapxx87/profile-card-component-main/issues"
+  },
+  "homepage": "https://github.com/aapxx87/profile-card-component-main#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

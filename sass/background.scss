@@ -1,0 +1,22 @@
+.bg-component {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 340px;
+  height: 370px;
+  border-radius: 14px;
+  z-index: -100;
+}
+
+.bubble-top {
+  position: absolute;
+  bottom: 38%;
+  right: 30%;
+}
+
+.bubble-bottom {
+  position: absolute;
+  top: 30%;
+  left: 46%;
+}
